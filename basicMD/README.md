@@ -7,6 +7,6 @@
 
    [IDEALmd_euler.py](https://github.com/nAmnesiac/py_basicMD/blob/main/basicMD/IDEALmd_euler.py) simulates ideal gas particles using Euler integration
 
-   **Usage:** Simulation parameters can be modified by following in-file documentation and simulation is run by calling the "run" function with necessary arguments. 
+   **Usage:** Simulation parameters can be modified by following in-file documentation and simulation is run by calling the "run" function with necessary arguments. Simulation will ouput to a PDB file for visualization in VMD and data will be stored in a text file.  
 
    **Note**: Script is based on Python 3 and NumPy library is necessary.
