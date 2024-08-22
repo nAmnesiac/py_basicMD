@@ -1,4 +1,4 @@
-# This is a tutorial for running Lennard-Jones gas simulations
+# This is a tutorial for running ideal and Lennard-Jones gas simulations
 
 ## 1. Running script
    [LJmd_euler.py](https://github.com/nAmnesiac/py_basicMD/blob/main/basicMD/LJmd_euler.py) simulates Lennard-Jones gas particles using Euler integration
