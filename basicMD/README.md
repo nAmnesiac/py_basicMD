@@ -9,4 +9,4 @@
 
    **Usage:** Simulation parameters can be modified by following in-file documentation and simulation is run by calling the "run" function with necessary arguments. 
 
-   **Note**: Script is based on Python 3 and numpy library is necessary.
+   **Note**: Script is based on Python 3 and NumPy library is necessary.
