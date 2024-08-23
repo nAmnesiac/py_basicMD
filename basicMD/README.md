@@ -10,4 +10,4 @@
 
    **Usage:** Simulation parameters can be modified by following in-file documentation and simulation is run by calling the "run" function with necessary arguments. Simulation will ouput to a PDB file for visualization in VMD and data will be stored in a text file.  
 
-   **Note**: Script is based on Python 3 and NumPy library is necessary.
+   **Note**: Script is based on Python 3 and *NumPy* library is necessary.
