@@ -1,7 +1,7 @@
 # /basicMD/
 # This is a tutorial for running ideal and Lennard-Jones gas simulations
 
-## 1. Running script
+## Running Script:
    [LJmd_euler.py](https://github.com/nAmnesiac/py_basicMD/blob/main/basicMD/LJmd_euler.py) simulates Lennard-Jones gas particles using Euler integration
 
    [LJmd_velocityverlet.py](https://github.com/nAmnesiac/py_basicMD/blob/main/basicMD/LJmd_velocityverlet.py) simulates Lennard-Jones gas particles using velocity Verlet integration
