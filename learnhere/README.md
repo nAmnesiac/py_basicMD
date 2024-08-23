@@ -1,5 +1,5 @@
 # /learnhere:
-# Python Molecular Dynamics Engine Report
+# This is a report on this Python MD engine
 
 ## Shortly
 Atta 
