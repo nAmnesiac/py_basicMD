@@ -8,4 +8,4 @@ This is a basic molecular dynamics (MD) engine for simulating ideal and Lennard-
 
 For running a MD simulation, follow [README.md](https://github.com/nAmnesiac/py_basicMD/blob/main/basicMD/README.md) in [basicMD](https://github.com/nAmnesiac/py_basicMD/tree/main/basicMD) for instructions.
 
-For detailed report of MD engine functionality and analysis of simulation data, see [README.md]()
+For detailed report of MD engine functionality and analysis of simulation data, see [README.md](https://github.com/nAmnesiac/py_basicMD/blob/main/learnhere/README.md) in [learnhere]()
