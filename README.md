@@ -1,6 +1,6 @@
 # Python Molecular Dynamics Engine
 [**basicMD**](https://github.com/nAmnesiac/py_basicMD/tree/main/basicMD): setup and script for running simulation <br/>
-[**learnhere**](runsamples/pressure_temperature/README.txt): detailed report and data analysis <br/>
+[**learnhere**](https://github.com/nAmnesiac/py_basicMD/tree/main/learnhere): detailed report and data analysis <br/>
 [**runsampes**](
 
 ## Shortly
