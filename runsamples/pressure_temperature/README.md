@@ -8,6 +8,8 @@ These are all simulations of systems of 300 atoms in a 120 by 120 by 120 angstor
 
 Temperature used for generation of inital velocities via Maxwell-Boltzmann distribution and thermostat target temperature were the same, though this temperature varied between simulated systems. To determind the target system temperature for each file, see below. 
 
+*(For example, [id01.pdb](https://github.com/nAmnesiac/py_basicMD/blob/main/runsamples/pressure_temperature/id01.pdb) and [id01.txt](https://github.com/nAmnesiac/py_basicMD/blob/main/runsamples/pressure_temperature/id01.txt) were generated from the same simulated system, using 200 degrees kelvin as target temperature)*
+
 
 
 
