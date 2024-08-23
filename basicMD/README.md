@@ -1,4 +1,4 @@
-# /basicMD:
+# /basicMD/
 # This is a tutorial for running ideal and Lennard-Jones gas simulations
 
 ## 1. Running script
