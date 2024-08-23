@@ -1,3 +1,7 @@
+## Shortly:
+These output files were generated as part of a set of simulations to test the stability of Euler and velocity Verlet integration algorithms at various timesteps. 
+
+
 ID 01: Euler Integrator, 1 femtosecond timestep<br/>
 ID 02: Euler Integrator, 2 femtosecond timestep<br/>
 ID 03: Euler Integrator, 4 femtosecond timestep<br/>
