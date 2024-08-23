@@ -1,7 +1,8 @@
-# /learnhere:
+# /learnhere/
 # This is a report on this Python MD engine
 
-## Shortly
-Atta 
+### Stability of Integrators, Temperature-Pressure Relationship, and Deviation From Ideal Gas in Molecular Dynamics Engine Using Python
+Allen Chen, 2024
 
-For running a MD simulation, follow [README.md]() in [basicMD]() for instructions.
+**Note:** For full simulation output files and data referenced in report, see [runsamples](https://github.com/nAmnesiac/py_basicMD/tree/main/runsamples).
+
