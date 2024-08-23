@@ -1,4 +1,4 @@
-# Python Molecular Dynamics Engine
+# py_basicMD Molecular Dynamics Engine in Python
 [*basicMD*](https://github.com/nAmnesiac/py_basicMD/tree/main/basicMD): setup and script for running simulation <br/>
 [*learnhere*](https://github.com/nAmnesiac/py_basicMD/tree/main/learnhere): detailed report and data analysis <br/>
 [*runsamples*](https://github.com/nAmnesiac/py_basicMD/tree/main/runsamples): sample simulation output files
