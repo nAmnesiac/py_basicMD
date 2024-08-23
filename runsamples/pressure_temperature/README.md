@@ -6,13 +6,12 @@ These output files were generated as part of a set of simulations to test the te
 
 
 
-ID 01: Euler Integrator, 1 femtosecond timestep<br/>
-ID 02: Euler Integrator, 2 femtosecond timestep<br/>
-ID 03: Euler Integrator, 4 femtosecond timestep<br/>
-ID 04: Euler Integrator, 8 femtosecond timestep<br/>
-ID 05: Euler Integrator, 16 femtosecond timestep<br/>
-ID 06: Velocity Verlet Integrator, 1 femtosecond timestep<br/>
-ID 07: Velocity Verlet Integrator, 2 femtosecond timestep<br/>
-ID 08: Velocity Verlet Integrator, 4 femtosecond timestep<br/>
-ID 09: Velocity Verlet Integrator, 8 femtosecond timestep<br/>
-ID 10: Velocity Verlet Integrator, 16 femtosecond timestep
+ID 01: 200 Kelvin <br/>
+ID 02: 225 Kelvin <br/>
+ID 03: 250 Kelvin <br/>
+ID 04: 275 Kelvin <br/>
+ID 05: 300 Kelvin <br/>
+ID 06: 325 Kelvin <br/>
+ID 07: 350 Kelvin <br/>
+ID 08: 375 Kelvin <br/>
+ID 09: 400 Kelvin
