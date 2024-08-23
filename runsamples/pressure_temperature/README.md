@@ -1,7 +1,9 @@
 # /runsamples/pressure_temperature/
 
 ## Shortly:
-These output files were generated as part of a set of simulations to test the stability of Euler and velocity Verlet integration algorithms at various timesteps. 
+These output files were generated as part of a set of simulations to test the temperature-pressure relationship of systems simulated with a Berendsen thermostat in comparison to ideal gas.
+
+
 
 
 ID 01: Euler Integrator, 1 femtosecond timestep<br/>
