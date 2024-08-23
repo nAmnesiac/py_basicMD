@@ -10,7 +10,6 @@ For running a MD simulation, follow [README.md](https://github.com/nAmnesiac/py_
 
 For detailed report of MD engine functionality and analysis of simulation data, see [README.md](https://github.com/nAmnesiac/py_basicMD/blob/main/learnhere/README.md) in [learnhere](https://github.com/nAmnesiac/py_basicMD/tree/main/learnhere).
 
-For sample simulation data used in MD engine report, see [README.md](https://github.com/nAmnesiac/py_basicMD/blob/main/runsamples/README.md) in [runsamples](https://github.com/nAmnesiac/py_basicMD/tree/main/runsamples).
+For sample simulation data used in MD engine report, see [README.md](https://github.com/nAmnesiac/py_basicMD/blob/main/runsamples/README.md) in [runsamples](https://github.com/nAmnesiac/py_basicMD/tree/main/runsamples).</br><br/><br/>
 
-<br/>
 **Contact:** allen.m.chen07@gmail.com
