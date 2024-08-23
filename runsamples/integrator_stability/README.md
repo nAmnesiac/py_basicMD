@@ -1,4 +1,4 @@
-# /runsampes/integrator_stability/
+# /runsamples/integrator_stability/
 
 ## Shortly:
 These output files were generated as part of a set of simulations to test the stability of Euler and velocity Verlet integration algorithms at various timesteps. 
