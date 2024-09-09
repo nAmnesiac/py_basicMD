@@ -1,7 +1,7 @@
 # /learnhere/
 # This is a report on this Python MD engine
 
-### Stability of Integrators, Temperature-Pressure Relationship, and Deviation From Ideal Gas in Molecular Dynamics Engine Using Python
+### Implementation of a Molecular Dynamic Engine in Python: Stability of Integrators, Temperature-Pressure Relationship of Lennard-Jones Gas
 Allen Chen, 2024
 
 PDF: [py_basicMDReport.pdf](https://github.com/nAmnesiac/py_basicMD/blob/main/learnhere/py_basicMDReport.pdf)
