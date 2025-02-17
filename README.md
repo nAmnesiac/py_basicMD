@@ -15,5 +15,5 @@ For detailed report of MD engine functionality and analysis of simulation data, 
 
 For sample simulation data used in MD engine report, see [README.md](https://github.com/nAmnesiac/py_basicMD/blob/main/runsamples/README.md) in [runsamples](https://github.com/nAmnesiac/py_basicMD/tree/main/runsamples).</br></br></br>
 
-Allen Chen, <i>Northfield Mount Hermon & University of Massachusetts Amherst</i>
+Allen Chen, <i>Northfield Mount Hermon & University of Massachusetts Amherst</i></br>
 **Contact:** allen.m.chen07@gmail.com
