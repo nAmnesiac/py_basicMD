@@ -2,7 +2,7 @@
 [*basicMD*](https://github.com/nAmnesiac/py_basicMD/tree/main/basicMD): setup and script for running simulation <br/>
 [*runsamples*](https://github.com/nAmnesiac/py_basicMD/tree/main/runsamples): report, data analysis, and sample simulation output files
 
-# Project Introduction
+## Project Introduction
 The purpose of this project was to implement a simple molecular dynamics (MD) engine using Python for simulating ideal and Lennard-Jones gas in a fixed box. The engine was constructed from scratch using Python, and then used to assess Euler and velocity Verlet integration algorithms and the effects of various simulation parameters upon long-term stability of the simulation, as well as the pressure-temperature relationship and Lennard-Jones gas deviation from ideal gas under various temperatures. Additionally, construction of this engine served as an impactful learning experience in molecular dynamics simulation and computation. By analyzing the average net system energy, it was concluded that both integration algorithms were able to conserve system energy with fluctuations and drift on the same order of magnitude. Additionally, pressure and temperature increased with a linear relationship which better modeled ideal gas at higher temperatures, which is the expected behavior and indicates that the model functions as a relatively accurate tool for simulating simple gases. 
 
 ## Shortly
